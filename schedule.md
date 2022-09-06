@@ -1,7 +1,7 @@
 # Class Calendar
 ## 1st Semester - 30 Days
 
-### 1. 9 Sep 2022, TUE 1 - 2pm CASA General Science
+### 0. 9 Sep 2022, TUE 1 - 2pm CASA General Science
 - First day of class
 ### 1. 13 Sep 2022, TUE 1 - 2pm CASA General Science
 - Coursework for 9/7/2022 - 9/13/2022:
