@@ -11,7 +11,7 @@
 - Coursework for 9/7/2022 - 9/13/2022:
     - Textbook: Module 2, pages 33-48
     - Notebook: pages 57-70
-    - Experiments 1.1, 1.2, 2.1, 2.2.
+    - Experiments 1.1, 1.2, (no lab write ups for unit 1 experiments) 2.1, 2.2.
 
 ### Class 2. 20 SEP 2022, TUE 1 – 2pm CASA General Science
 
