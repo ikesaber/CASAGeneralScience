@@ -4,10 +4,11 @@
 
 ### The Scientific Method
 
-1.  **Observation** - Observation of something to study
-2.  **Hypothesis** - A guess that explains an observation or answers a question
-3.  **Experiment** - Procedure undertaken to make a discovery, test a hypothesis, or refine a theory or law
-4.  **Theory / Law** - Explanation / description based on repeated successful predictions
+1.  **Observation** \- Observation of something to study
+2.  **Research** \- Systematic work to increase knowledge of a topic
+3.  **Hypothesis** \- A guess that explains an observation or answers a question
+4.  **Experiment** \- Procedure undertaken to make a discovery, test a hypothesis, or refine a theory or law
+5.  **Theory / Law** \- Explanation / description based on repeated successful predictions
     - ***Theory*** \- *Explanation of why a phenomena occur* that is supported by a significant amount of evidence
     - ***Law*** \- *Description or principle of what phenomena occur* that is supported by a significant amount of evidence
         - often uses mathematics to make predictions
