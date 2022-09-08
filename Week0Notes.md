@@ -1,3 +1,26 @@
+# Introduction
+
+- Introduce yourself
+
+Student names - get student roster (try to get parents names / emails too)
+
+- [ ] 1\. Lily
+    
+- [ ] 2\. Emory
+    
+- [ ] 3\. Katetlyn
+    
+- [ ] 4\. Cooper
+    
+
+Course schedule will be made available on [github](https://github.com/ikesaber/CASAGeneralScience/blob/main/schedule.md) \- watch for changes
+
+# Course Coverage
+
+- We will be covering modules 2 through 13.
+
+> That is every module except for the first and the last.
+
 # What is Science?
 
 **Science** \- Systematic study through observation and experimentation
@@ -14,37 +37,39 @@
 
 ![Taken from the wikimedia foundation](https://upload.wikimedia.org/wikipedia/commons/7/7f/Scientific_law_versus_Scientific_theories.png)
 
-## What makes good science?
+# What makes good science?
 
-- Example: I am studying the effect of flipping a lightswitch on a light. 
+> Example: I am studying the effect of flipping a light switch on a light. 
 
 1.  ***Predictive validity*** \- Theories and laws must by justified by making valid predictions.
 
-- If I predict that flipping the switch will turn on a light and it does not, my prediction is *not valid* 
+> If I predict that flipping the switch will turn on a light and it does not, my prediction is *not valid* 
 
 2.  ***Falsifiability*** \- Theories and laws must be falsifiable - able to stand up to scrutiny or be disproven.
 
-- If I predict that flipping a switch will make something happen, my prediction may be *unfalsifiable*
+> If I predict that flipping a switch will make something happen, my prediction may be *unfalsifiable*
 
 3.  ***Reproducibility*** \- Capacity for a scientific finding to be found independently using the same methodology.
 
-- If I report flipping the lightswitch turned on the light, but somebody else reports flipping the lightswitch did not turn on the light, my finding *failed to replicate*
+> If I report flipping the switch turned on the light, but somebody else reports flipping the lightswitch did not turn on the light, my finding *failed to replicate*
 
 4.  ***Precision*** and ***Accuracy***
 - ***Accuracy*** \- How close or far off a given set of measurements (observations or readings) are to their true value.
 - ***Precision*** \- How close or dispersed your measurements are to each other.
 
-- More precision and accuracy is better
+> More precision and accuracy is better
 
-## Determining causation from correlation
+# Determining causation from correlation
 
-*Correlation does not necessarily equal causation*
+> *Correlation does not necessarily equal causation*
 
 ### Example: Does criminality in a city rise with ice cream sales?
 
-- it could be a law because it describes what "phenomena happen"
+> it could be a law because it describes what "phenomena happen"
+
 - Refinement of a hypothesis or theory requires that you control for *confounders*
 
+## Dependent, Independent, and Confounding Variables
 ***Independent variable*** \- *Cause*. Its value is *independent* of other variables in your study.
 ***Dependent variable*** \- *Effect*. Its value *depends* on changes in the independent variable.
 ***Confounding variable*** \- a variable that influences both the dependent variable and independent variable (making it just another *dependent variable*)
