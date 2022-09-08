@@ -1,13 +1,13 @@
 # What is Science?
 
-**Science** \- Systematic study through observation and experimentation
+***Science*** \- Systematic study through observation and experimentation
 
 ***The Scientific Method***
 
-1.  Observation - Observe something to study
-2.  Hypothesis - A guess that explains an observation or answers a question
-3.  Experiment - Procedure undertaken to make a discovery, test a hypothesis, or refine a theory or law
-4.  Theory / Law - Explanation / description based on repeated successful predictions
+1.  **Observation** - Observe something to study
+2.  **Hypothesis** - A guess that explains an observation or answers a question
+3.  **Experiment** - Procedure undertaken to make a discovery, test a hypothesis, or refine a theory or law
+4.  **Theory / Law** - Explanation / description based on repeated successful predictions
     - ***Law*** \- *Description or principle of what phenomena occur* that is supported by a significant amount of evidence
         - often uses mathematics to make predictions
     - ***Theory*** \- *Explanation of why a phenomena occur* that is supported by a significant amount of evidence
@@ -16,11 +16,11 @@
 
 # What makes good science?
 
-> Example: I am studying the effect of flipping a light switch on a light. 
+> Example: I am studying the effect of flipping a light switch on a light.
 
 1.  ***Predictive validity*** \- Theories and laws must by justified by making valid predictions.
 
-> If I predict that flipping the switch will turn on a light and it does not, my prediction is *not valid* 
+> If I predict that flipping the switch will turn on a light and it does not, my prediction is *not valid*
 
 2.  ***Falsifiability*** \- Theories and laws must be falsifiable - able to stand up to scrutiny or be disproven.
 
@@ -31,10 +31,13 @@
 > If I report flipping the switch turned on the light, but somebody else reports flipping the lightswitch did not turn on the light, my finding *failed to replicate*
 
 4.  ***Precision*** and ***Accuracy***
+
 - ***Accuracy*** \- How close or far off a given set of measurements (observations or readings) are to their true value.
 - ***Precision*** \- How close or dispersed your measurements are to each other.
 
 > More precision and accuracy is better
+
+![PrecisionVsAccuracy](https://www.antarcticglaciers.org/wp-content/uploads/2013/11/precision_accuracy.png)
 
 # Determining causation from correlation
 
@@ -47,13 +50,16 @@
 - Refinement of a hypothesis or theory requires that you control for *confounders*
 
 ## Dependent, Independent, and Confounding Variables
+
 ***Independent variable*** \- *Cause*. Its value is *independent* of other variables in your study.
 ***Dependent variable*** \- *Effect*. Its value *depends* on changes in the independent variable.
-***Confounding variable*** \- a variable that influences both the dependent variable and independent variable (making it just another *dependent variable*)
+***Confounding variable*** \- a variable that influences both the dependent variable and independent variable
 
 ![confoundIndependentDependentVariables](https://www.statology.org/wp-content/uploads/2021/02/confound2-1024x500.png)
 
 Theory / Law must hold up when confounders are *controlled*
+
+> For example: Do *ice cream sales* affect *rates of skin cancer* when *sunlight exposure* is controlled (equal for everyone)?
 
 ## Science as an institution
 
