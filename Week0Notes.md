@@ -1,26 +1,3 @@
-# Introduction
-
-- Introduce yourself
-
-Student names - get student roster (try to get parents names / emails too)
-
-- [ ] 1\. Lily
-    
-- [ ] 2\. Emory
-    
-- [ ] 3\. Katetlyn
-    
-- [ ] 4\. Cooper
-    
-
-Course schedule will be made available on [github](https://github.com/ikesaber/CASAGeneralScience/blob/main/schedule.md) \- watch for changes
-
-# Course Coverage
-
-- We will be covering modules 2 through 13.
-
-> That is every module except for the first and the last.
-
 # What is Science?
 
 **Science** \- Systematic study through observation and experimentation
