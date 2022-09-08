@@ -8,9 +8,9 @@
 2.  **Hypothesis** - A guess that explains an observation or answers a question
 3.  **Experiment** - Procedure undertaken to make a discovery, test a hypothesis, or refine a theory or law
 4.  **Theory / Law** - Explanation / description based on repeated successful predictions
+    - ***Theory*** \- *Explanation of why a phenomena occur* that is supported by a significant amount of evidence
     - ***Law*** \- *Description or principle of what phenomena occur* that is supported by a significant amount of evidence
         - often uses mathematics to make predictions
-    - ***Theory*** \- *Explanation of why a phenomena occur* that is supported by a significant amount of evidence
 
 ![Taken from the wikimedia foundation](https://upload.wikimedia.org/wikipedia/commons/7/7f/Scientific_law_versus_Scientific_theories.png)
 
