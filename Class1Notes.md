@@ -2,9 +2,9 @@
 
 ***Science*** \- Systematic study through observation and experimentation
 
-***The Scientific Method***
+### The Scientific Method
 
-1.  **Observation** - Observe something to study
+1.  **Observation** - Observation of something to study
 2.  **Hypothesis** - A guess that explains an observation or answers a question
 3.  **Experiment** - Procedure undertaken to make a discovery, test a hypothesis, or refine a theory or law
 4.  **Theory / Law** - Explanation / description based on repeated successful predictions
