@@ -15,6 +15,12 @@
 
 ### Class 3. 20 SEP 2022, TUE 3 - 4pm CASA General Science
 
+- Coursework for 9/14/2022 - 9/20/2022:
+    - Textbook: Module 2, pages 48-56
+    - Notebook: pages 71-80
+    - Experiment 2.3 (bring lab writeup to class on the 20th)
+    - Module 2 Test (bring completed test to class on the 20th)
+
 ### Class 4. 27 SEP 2022, TUE 3 - 4pm CASA General Science
 
 ### Class 5. 4 OCT 2022, TUE 3 - 4pm CASA General Science
