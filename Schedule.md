@@ -3,20 +3,22 @@
 **\*Note: *This calendar generally follows the schedule laid out in the Apologia General General Science Notebook***
 - If you are ever confused regarding assignments, please consult the schedule beginnin on page 15 in your notebook or email me.
 
+\***Be prepared for a quiz at the start of each class.**
+
 ## 1st Semester - 30 Days
 
-### Class 1. 6 Sep 2022, TUE 3 - 4pm CASA General Science
+### [Class 1](/Class1). 6 Sep 2022, TUE 3 - 4pm CASA General Science
 
 - First day of class
 
-### Class 2. 13 Sep 2022, TUE 3 - 4pm CASA General Science
+### [Class 2])(/Class2). 13 Sep 2022, TUE 3 - 4pm CASA General Science
 
 - Coursework for 9/7/2022 - 9/13/2022:
     - Textbook: Module 2, pages 33-48
     - Notebook: pages 57-70
     - Experiments 1.1, 1.2, (no writeup for module 1 labs) 2.1, 2.2.
 
-### Class 3. 20 SEP 2022, TUE 3 - 4pm CASA General Science
+### [Class 3](/Class3). 20 SEP 2022, TUE 3 - 4pm CASA General Science
 
 - Coursework for 9/14/2022 - 9/20/2022:
     - Textbook: Module 2, pages 48-56
@@ -24,7 +26,7 @@
     - Experiment 2.3 (bring lab writeup to class on the 20th)
     - Module 2 Test (bring completed test to class on the 20th)
 
-### Class 4. 27 SEP 2022, TUE 3 - 4pm CASA General Science
+### [Class 4](/Class4). 27 SEP 2022, TUE 3 - 4pm CASA General Science
 
 - Coursework for 9/21/2022 - 9/27/2022:
     - Textbook: Module 3, pages 57-73

@@ -1,4 +1,4 @@
-1. **Identify the following components in the given experiment:**
+1. [**Identify the following components in the given experiment:**](/Class3/Class3Notes.md)
 
 - Control Group(s)
 - Treatment Group(s)
