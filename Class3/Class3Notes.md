@@ -17,13 +17,17 @@
 - Corruption (prevent with double blinding)
 
 # Creating a figure 
+
 **Always include:**
+
 - Title \- should be clearly differentiated from the rest of the description (i.e., by larger bold font)
 - Axes Labels \- label the gradations of your graph 
 - Axes Titles (with units of measurement)
 - Data Points \- Use different marker styles for each data series
 - Legend \- a key to identify each data series
+
 **Sometimes Include**
+
 - Figure Number (Figure number and description should be below figure)
 - Figure Description \- Specifically describe what is being shown
 - Raw Data \- table of data that is included in the report
