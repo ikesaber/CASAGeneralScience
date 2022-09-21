@@ -1,5 +1,8 @@
 # Class Calendar
 
+**\*Note: *This calendar generally follows the schedule laid out in the Apologia General General Science Textbook***
+- If you are ever confused regarding assignments, please consult the schedule beginnin on page 15 in your textbook or email me.
+
 ## 1st Semester - 30 Days
 
 ### Class 1. 6 Sep 2022, TUE 3 - 4pm CASA General Science
