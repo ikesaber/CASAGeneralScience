@@ -1,9 +1,8 @@
-**Identify the following components in the given experiment:**
+1. **Identify the following components in the given experiment:**
 
 - Control Group(s)
 - Treatment Group(s)
 - Experimental variable
 - Dependent variable
 
-**Is this a *Non-blind*, *Blind*, or *Double-blind* experiment?**
-
+1. [What are 4 characteristics of a strong scientific model?](../Class1/Class1Notes.md#What-makes-good-science)
