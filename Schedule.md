@@ -1,7 +1,7 @@
 # Class Calendar
 
-**\*Note: *This calendar generally follows the schedule laid out in the Apologia General General Science Textbook***
-- If you are ever confused regarding assignments, please consult the schedule beginnin on page 15 in your textbook or email me.
+**\*Note: *This calendar generally follows the schedule laid out in the Apologia General General Science Notebook***
+- If you are ever confused regarding assignments, please consult the schedule beginnin on page 15 in your notebook or email me.
 
 ## 1st Semester - 30 Days
 
