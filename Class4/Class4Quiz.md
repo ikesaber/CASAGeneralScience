@@ -5,4 +5,4 @@
 - Experimental variable
 - Dependent variable
 
-2. [What are 4 characteristics of a strong scientific model?](../Class1/Class1Notes.md#What-makes-good-science)
+2. **[What are 4 characteristics of a strong scientific model?](../Class1/Class1Notes.md#What-makes-good-science)**
