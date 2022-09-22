@@ -22,7 +22,4 @@ This is a repository for CASA General Science Curriculum. As we only meet once p
 
 ## About GitHub 
 
-For anybody who's unfamiliar with GitHub, It functions very similarly to a file manager (like *File Explorer* *Finder*, or *Nautilus*). Use the *file navigation box* to navigate to new files or directories, use the *file viewer box* to view the files themselves, and the *breadcrumbs* at the top of the page to keep track of the directory you are inside.
-
-Websites built on git are designed for posting publicly available source-code for applications on the internet, such that they may be downloaded to your computer as new updates are published. I am using it to host all the course content because I want to familiarize students with how to use online git repositories, and I want the content of the course to be available to everybody. 
-
+For anybody who's unfamiliar with GitHub, It functions very similarly to a file manager (like *File Explorer*, *Finder*, or *Nautilus*). Use the *file navigation box* to navigate to new files or directories, use the *file viewer box* to view the files themselves, and the *breadcrumbs* at the top of the page to keep track of the directory you are inside. You do not need to use the site's more advanced features for this course.
