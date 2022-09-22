@@ -5,7 +5,7 @@
 
 \***Be prepared for a quiz at the start of each class.**
 
-## 1st Semester - 30 Days
+## 1st Semester
 
 ### [Class 1](/Class1). 6 Sep 2022, TUE 3 - 4pm CASA General Science
 
