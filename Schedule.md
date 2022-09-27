@@ -11,7 +11,7 @@
 
 - First day of class
 
-### [Class 2])(/Class2). 13 Sep 2022, TUE 3 - 4pm CASA General Science
+### [Class 2](/Class2). 13 Sep 2022, TUE 3 - 4pm CASA General Science
 
 - Coursework for 9/7/2022 - 9/13/2022:
     - Textbook: Module 2, pages 33-48
