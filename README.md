@@ -6,10 +6,6 @@
 
 [Jump to Schedule](/Schedule.md)
 
-[Jump to class 3 notes](/Class3/Class3Notes.md)
-
-[Study for class 4 quiz](/Class4/Class4Quiz.md)
-
 ## About this repository:
 
 This is a repository for CASA General Science Curriculum. As we only meet once per week, the majority of the course will be self-paced, following the schedule starting on page 15 of your student workbook. The coursework will generally follow this schedule, but [/Schedule.md](/Schedule.md) contains all the class-by-class instructions I expect you to follow. I will make periodic changes as the course progresses, so please notify me by email if you see anything broken or unusual. 
