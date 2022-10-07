@@ -45,7 +45,7 @@
 - [Chemistry](https://en.wikipedia.org/wiki/Outline_of_natural_science#Chemistry) \- Study of material properties and behavior
 - [Geoscience (Earth Sciences)](https://en.wikipedia.org/wiki/Outline_of_natural_science#Earth_Science) \- Study of earth and its properties
 
-## [Social Science](https://en.wikipedia.org/wiki/Outline_of_social_science)
+## [Social Sciences](https://en.wikipedia.org/wiki/Outline_of_social_science)
 
 - Study of society, human behavior, and social relationships
 
