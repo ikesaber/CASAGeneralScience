@@ -4,7 +4,7 @@
 - Etymology is the principles of the forms of words
 - Biology is the principles of life
 
-- ## Dendrochronology
+## Dendrochronology
 
 - "Dendro" = "branch", "chronology" = "time study"
 - Also called "tree-ring dating" - the scientific method of dating tree rings (also called growth rings) to the exact year they were formed
