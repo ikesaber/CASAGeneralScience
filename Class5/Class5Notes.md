@@ -13,6 +13,11 @@
 
 # [Scientific Diciplines | Branches of Science](https://en.wikipedia.org/wiki/Branches_of_science)
 
+1. [Formal Sciences](#formal-sciences)
+2. [Natural Sciences](#natural-sciences)
+3. [Social Sciences](#social-sciences)
+4. [Applied Sciences](#applied-sciences)
+
 ![Purity](https://qph.cf2.quoracdn.net/main-qimg-ea00ef5f3922ad6856e1ac9ca0be7d8f-c)
 
 
