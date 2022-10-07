@@ -6,8 +6,8 @@
 
 ## Dendrochronology
 
-- "Dendro" = "branch", "chronology" = "time study"
 - Also called "tree-ring dating" - the scientific method of dating tree rings (also called growth rings) to the exact year they were formed
+- "Dendro" = "branch", "chronology" = "time study"
 - Trees develop about one ring per year, large rings reflect years of large growth.
 
 
