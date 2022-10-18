@@ -96,3 +96,4 @@ EM Radiation is the easiest way to study celestial objects because of it's speed
 ### Reflecting Telescope
 
 ![Reflecting Telescope](https://www.dummies.com/wp-content/uploads/383614.image1.jpg)
+

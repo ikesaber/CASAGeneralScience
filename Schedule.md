@@ -13,52 +13,65 @@
 
 ### [Class 2](/Class2). 13 Sep 2022, TUE 3 - 4pm CASA General Science
 
-- Coursework for 9/7/2022 - 9/13/2022:
+- Coursework for 9/7/2022 \- 9/13/2022:
     - Textbook: Module 2, pages 33-48
     - Notebook: pages 57-70
     - Experiments 1.1, 1.2, (no writeup for module 1 labs) 2.1, 2.2.
 
 ### [Class 3](/Class3). 20 SEP 2022, TUE 3 - 4pm CASA General Science
 
-- Coursework for 9/14/2022 - 9/20/2022:
+- Coursework for 9/14/2022 \- 9/20/2022:
     - Textbook: Module 2, pages 48-56
     - Notebook: pages 71-80
-    - Experiment 2.3 (bring lab writeup to class on the 20th)
+    - Experiment 2.3 (bring Formal Lab Report to class on the 20th)
     - Module 2 Test (bring completed test to class on the 20th)
 
 ### [Class 4](/Class4). 27 SEP 2022, TUE 3 - 4pm CASA General Science
 
-- Coursework for 9/21/2022 - 9/27/2022:
+- Coursework for 9/21/2022 \- 9/27/2022:
     - Textbook: Module 3, pages 57-73
     - Notebook: pages 81-91
-    - Experiment 3.1, 3.2, 3.3 (bring lab writeups to class)
+    - Experiment 3.1, 3.2, 3.3 (bring Formal Lab Reports to class)
 
 
 ### [Class 5](/Class5). 4 OCT 2022, TUE 3 - 4pm CASA General Science
 
-- Coursework for 9/28/2022 - 10/04/2022:
+- Coursework for 9/28/2022 \- 10/04/2022:
     - Textbook: Module 3, pages 73-85
     - Notebook: pages 92-103
     - Module 3 Test (bring completed test to class)
 
 ### [Class 6](/Class6). 11 OCT 2022, TUE 3 - 4pm CASA General Science
 
-- Coursework for 10/05/2022 - 10/11/2022:
+- Coursework for 10/05/2022 \- 10/11/2022:
     - Textbook: Module 4, pages 87-101
     - Notebook: pages 105-117
     - Experiment 4.1 (optional)
 
 ### [Class 7](/Class7). 18 OCT 2022, TUE 3 - 4pm CASA General Science
 
-- Coursework for 10/12/2022 - 10/18/2022:
+- Coursework for 10/12/2022 \- 10/18/2022:
     - Textbook: Module 4, pages 101-112
     - Notebook: pages 118-127
-    - Experiment 4.1 (bring lab writeup to class)
+    - Experiment 4.1 (bring Formal Lab Report to class)
     - Module 4 Test (bring completed test to class)
 
-### Class 8. 25 OCT 2022, TUE 3 - 4pm CASA General Science
+### [Class 8](/Class8). 25 OCT 2022, TUE 3 - 4pm CASA General Science
 
-### Class 9. 1 NOV 2022, TUE 3 - 4pm CASA General Science
+- Coursework for 10/19/2022 \- 10/25/2022:
+    - Textbook: Module 5, pages 113-131
+    - Notebook: pages 129-145
+    - Experiment 5.1 (bring Formal Lab Report to class)
+
+
+### [Class 9](/Class9). 1 NOV 2022, TUE 3 - 4pm CASA General Science
+
+- Coursework for 10/26/2022 \- 11/02/2022:
+    - Textbook: Module 5, pages 132-134
+    - Notebook: pages 146-161
+    - Experiment 5.2 (Formal Lab Report to class)
+    - Module 5 Test (bring completed test to class)
+
 
 ### Class 10. 8 NOV 2022, TUE 3 - 4pm CASA General Science
 
