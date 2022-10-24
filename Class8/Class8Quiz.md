@@ -1,9 +1,9 @@
-1. Define Gravity.
+1. [Define Gravity.](../Class7/Class7Notes.md#astronomy)
 
-2. What is at the center of the Milky Way Galaxy?
+2. [What is at the center of the Milky Way Galaxy?](../Class7/Class7Notes.md#astronomy)
 
-3. Name one way that light behaves differently from sound?
+3. [Name one way that light behaves differently from sound?](../Class7/Class7Notes.md#light-is-a-particle)
 
-4. Name one way that light behaves similarly to sound?
+4. [Name one way that light behaves similarly to sound?](../Class7/Class7Notes.md#light-is-a-wave)
 
-5. Name one form of EM radiation other than visible light.
+5. [Name one form of EM radiation other than visible light.](../Class7/Class7Notes.md#other-em-radiation)
