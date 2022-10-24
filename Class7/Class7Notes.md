@@ -59,15 +59,15 @@ Usually, celestial bodies orbit a *[Barycenter](https://spaceplace.nasa.gov/bary
 - brighter light has a higher *amplitude*
 
 
-### Examples of Light
+## Examples of Light
 
-- Red \- ~ 620 to 750 nm
+### Colors Chart
 
-- Yellow \- ~ 580 nm
-
-- Green \- ~ 550 nm 
-
-- Blue \- ~ 450 to 495 nm
+| Spectral region | Range of wavelength (nm) | Subregion |
+| --- | --- | --- |
+| Ultraviolet | 100-280 </br> 280-315  </br> 315-380 | UV-C </br> UV-B </br> UV-A |
+Visible | 380-430 </br> 430-500 </br> 500-520 </br> 520-565 </br> 565-580 </br> 580-625 </br> 625-740 | Violet </br> Blue </br> Cyan </br> Green </br> Yellow </br> Orange </br> Red | 
+Infrared | 740-1400 </br> 1400-10000 | Near IR </br> Far IR |
 
 ## Other EM Radiation
 There are many kinds of EM radiation that are outside the spectrum of *Visible light*
@@ -84,16 +84,4 @@ There are many kinds of EM radiation that are outside the spectrum of *Visible l
 - Amplitude modulation (AM) Radio
 
 ![AM vs FM Radio](https://wikiless.org/media/wikipedia/commons/a/a4/Amfm3-en-de.gif)
-
-## Telescopes
-
-EM Radiation is the easiest way to study celestial objects because of it's speed and versitility.
-
-### Refracting Telescope
-
-![Refracting Telescope](https://www.dummies.com/wp-content/uploads/383613.image0.jpg)
-
-### Reflecting Telescope
-
-![Reflecting Telescope](https://www.dummies.com/wp-content/uploads/383614.image1.jpg)
 
