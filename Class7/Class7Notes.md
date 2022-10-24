@@ -16,7 +16,7 @@
 
 **Sattelite** \- A celestial body orbiting another of larger size
 
-The Solar system is a *Sattelite* of Sagittarius A, which is the supermassive black hole at the center of our *galaxy*.
+The Solar system is a *Sattelite* of Sagittarius A, which is the supermassive black hole at the center of the Milky Way *galaxy*.
 
 ![Saggitarius A](https://wikiless.northboot.xyz/media/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-1200px-EHT_Saggitarius_A_black_hole.tif.jpg)
 

@@ -1,6 +1,6 @@
 1. [Define Gravity.](../Class7/Class7Notes.md#astronomy)
 
-2. [What is at the center of the Milky Way Galaxy?](../Class7/Class7Notes.md#astronomy)
+2. [What is at the center of the Milky Way Galaxy (our galaxy)?](../Class7/Class7Notes.md#astronomy)
 
 3. [Name one way that light behaves differently from sound?](../Class7/Class7Notes.md#light-is-a-particle)
 
