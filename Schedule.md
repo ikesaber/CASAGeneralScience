@@ -72,15 +72,15 @@
 ### Class 10. 8 NOV 2022, TUE 3 - 4pm CASA General Science
 
 - Coursework for 11/02/2022 \- 11/08/2022:
-    - Textbook: Module 6, pages 132-134
-    - Notebook: pages 146-161
+    - Textbook: Module 6, pages 169-186
+    - Notebook: pages 181-198
     - Experiment (Formal Lab Report to class)
-    - Module 5 Test (bring completed test to class)
+    - Module 6 Test (bring completed test to class)
 
 ### Class 11. 15 NOV 2022, TUE 3 - 4pm CASA General Science
 
 - Coursework for 11/09/2022 \- 11/16/2022:
-    - Textbook: Module 5, pages 132-134
+    - Textbook: Module 6, pages 135-134
     - Notebook: pages 146-161
     - Experiment 5.2 (Formal Lab Report to class)
     - Module 5 Test (bring completed test to class)
