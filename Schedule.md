@@ -63,19 +63,28 @@
     - Notebook: pages 129-145
     - Experiment 5.1 (bring Formal Lab Report to class)
 
-
 ### [Class 9](/Class9). 1 NOV 2022, TUE 3 - 4pm CASA General Science
 
-- Coursework for 10/26/2022 \- 11/02/2022:
+- Coursework for 10/26/2022 \- 11/01/2022:
+    - Textbook: Module 6, pages 147-169
+    - Notebook: pages 163-180
+
+### Class 10. 8 NOV 2022, TUE 3 - 4pm CASA General Science
+
+- Coursework for 11/02/2022 \- 11/08/2022:
+    - Textbook: Module 6, pages 132-134
+    - Notebook: pages 146-161
+    - Experiment (Formal Lab Report to class)
+    - Module 5 Test (bring completed test to class)
+
+### Class 11. 15 NOV 2022, TUE 3 - 4pm CASA General Science
+
+- Coursework for 11/09/2022 \- 11/16/2022:
     - Textbook: Module 5, pages 132-134
     - Notebook: pages 146-161
     - Experiment 5.2 (Formal Lab Report to class)
     - Module 5 Test (bring completed test to class)
 
-
-### Class 10. 8 NOV 2022, TUE 3 - 4pm CASA General Science
-
-### Class 11. 15 NOV 2022, TUE 3 - 4pm CASA General Science
 
 ### Class 12. 29 NOV 2022, TUE 3 - 4pm CASA General Science
 
