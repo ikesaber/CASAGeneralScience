@@ -75,6 +75,7 @@
 - Coursework for 11/02/2022 \- 11/08/2022:
     - Textbook: Module 6, pages 147-169
     - Notebook: pages 163-180
+    - ***Read this [example lab report from reed college](https://www.reed.edu/writing/paper_help/labreport_good.html) and be prepared for discussion in class***
     - Experiment (Formal Lab Report 5 to class)
   
 ### Class 11. 15 NOV 2022, TUE 3 - 4pm CASA General Science
