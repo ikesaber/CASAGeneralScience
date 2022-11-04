@@ -5,7 +5,7 @@
 
 \***Be prepared for a quiz at the start of each class.**
 
-## 1st Semester
+# 1st Semester
 
 ### [Class 1](/Class1). 6 Sep 2022, TUE 3 - 4pm CASA General Science
 
@@ -75,13 +75,13 @@
 - Coursework for 11/02/2022 \- 11/08/2022:
     - Textbook: Module 6, pages 147-169
     - Notebook: pages 163-180
-    - ***Read this [example lab report from reed college](https://www.reed.edu/writing/paper_help/labreport_good.html) and be prepared for discussion in class***
+    - ***Read this [example lab report from reed college](https://www.reed.edu/writing/paper_help/labreport_good.html) and be prepared to discuss it in class***
     - Experiment (Formal Lab Report 5 to class)
   
 ### Class 11. 15 NOV 2022, TUE 3 - 4pm CASA General Science
 
-- Coursework for 11/09/2022 \- 11/16/2022:
-    - Textbook: Module 6, pages 169-186
+- Coursework for 11/09/2022 \- 11/15/2022:
+    - Textbook: Module 6, pages 187-204
     - Notebook: pages 181-198
     - Experiment 6 (Formal Lab Report to class)
     - Module 6 Test (bring completed test to class)
@@ -89,17 +89,29 @@
 
 ### Class 12. 29 NOV 2022, TUE 3 - 4pm CASA General Science
 
+- Coursework for 11/23/2022 \- 11/29/2022:
+    - Textbook: Module 7, pages 187-204
+    - Notebook: pages 199-198
+
+# Second Semester
+
 ### Class 13. 10 JAN 2023, TUE 3 - 4pm CASA General Science
 
-### Class 14. 12 JAN 2023, TUE 3 - 4pm CASA General Science
+- Coursework for 01/04/2023 \- 01/10/2023:
+    - Textbook: Module 7, pages 204-214
+    - Notebook: pages 215-224
+    - Experiment 7 (Formal Lab Report to class)
+    - Module 7 Test (bring completed test to class)
 
-### Class 15. 17 JAN 2023, TUE 3 - 4pm CASA General Science
+### Class 14. 17 JAN 2023, TUE 3 - 4pm CASA General Science
 
-### Class 16. 24 JAN 2023, TUE 3 - 4pm CASA General Science
+### Class 15. 24 JAN 2023, TUE 3 - 4pm CASA General Science
 
-### Class 17. 31 JAN 2023, TUE 3 - 4pm CASA General Science
+### Class 16. 31 JAN 2023, TUE 3 - 4pm CASA General Science
 
-## Second Semester
+
+### Class 17. 7 FEB 2023, TUE 3 - 4pm CASA General Science
+
 
 ### Class 18. 7 FEB 2023, TUE 3 - 4pm CASA General Science
 
@@ -111,20 +123,26 @@
 
 ### Class 22. 7 MAR 2023, TUE 3 - 4pm CASA General Science
 
+
 ### Class 23. 14 MAR 2023, TUE 3 - 4pm CASA General Science
 
 ### Class 24. 21 MAR 2023, TUE 3 - 4pm CASA General Science
 
+
 ### Class 25. 28 MAR 2023, TUE 3 - 4pm CASA General Science
 
+
 ### Class 26. 18 APR 2023, TUE 3 - 4pm CASA General Science
+
 
 ### Class 27. 25 APR 2023, TUE 3 - 4pm CASA General Science
 
 ### Class 28. 2 MAY 2023, TUE 3 - 4pm CASA General Science
+
 
 ### Class 29. 9 MAY 2023, TUE 3 - 4pm CASA General Science
 
 ### Class 30. 16 MAY 2023, TUE 3 - 4pm CASA General Science
 
 ### Class 31. 23 MAY 2023, TUE 3 - 4pm CASA General Science
+
