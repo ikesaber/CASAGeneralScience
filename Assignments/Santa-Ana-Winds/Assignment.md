@@ -1,10 +1,8 @@
 # Assignment
 
-
-
-1. Read the [raw data] provided
-2. Create a graph of pressure, temperature, humidity as a function of date
-   - for in the graphs, create separate plots for AM and PM properties so that they do not appear on the same lines   
+1. Read the [raw data](../Santa-Ana-Winds/SantaAnaWindsRaw.ods) provided
+2. Create graphs of pressure, temperature, humidity as a function of date
+   - For each of the graphs, create separate plots for AM and PM properties so that they do not appear on the same lines   
 
 ## Graphs must have these required properties
 
@@ -14,4 +12,4 @@
 - Data Points \- Use different marker styles for each data series
 - Legend \- a key to identify each data series
 
-Answer the question: When did the Santa Ana winds begin and end? 
+Answer the question: When did the Santa Ana winds begin and end?
