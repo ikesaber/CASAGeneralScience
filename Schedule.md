@@ -1,7 +1,20 @@
 # Class Calendar
 
-**\*Note: *This calendar generally follows the schedule laid out in the Apologia General General Science Notebook***
-- If you are ever confused regarding assignments, please consult the schedule beginnin on page 15 in your notebook or email me.
+**\*Note: *This calendar generally follows the schedule laid out in the Apologia General General Science Notebook - [I have included the pages in this repository](/ApologiaSchedule)***
+
+![Page1](ApologiaSchedule/Schedule1.jpg)
+
+![Page2](ApologiaSchedule/Schedule2.jpg)
+
+![Page3](ApologiaSchedule/Schedule3.jpg)
+
+![Page4](ApologiaSchedule/Schedule4.jpg)
+
+![Page5](ApologiaSchedule/Schedule5.jpg)
+
+![Page6](ApologiaSchedule/Schedule6.jpg)
+
+- If you are ever confused regarding assignments, please consult the schedule beginning on page 15 in your notebook or email me.
 
 \***Be prepared for a quiz at the start of each class.**
 
@@ -78,7 +91,7 @@
     - ***Read this [example lab report from reed college](https://www.reed.edu/writing/paper_help/labreport_good.html) and be prepared to discuss it in class***
     - Experiment (Formal Lab Report 5 to class)
   
-### Class 11. 15 NOV 2022, TUE 3 - 4pm CASA General Science
+### [Class 11](/Class11). 15 NOV 2022, TUE 3 - 4pm CASA General Science
 
 - Coursework for 11/09/2022 \- 11/15/2022:
     - Textbook: Module 6, pages 187-204
@@ -87,7 +100,7 @@
     - Module 6 Test (bring completed test to class)
 
 
-### Class 12. 29 NOV 2022, TUE 3 - 4pm CASA General Science
+### [Class 12](/Class12). 29 NOV 2022, TUE 3 - 4pm CASA General Science
 
 - Coursework for 11/23/2022 \- 11/29/2022:
     - Textbook: Module 7, pages 187-204
