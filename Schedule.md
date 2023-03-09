@@ -138,14 +138,14 @@
 ### Class 23. 14 MAR 2023, TUE 3 - 4pm CASA General Science
 
 - Coursework for 03/07/2023 \- 03/14/2023:
-    - Complete [week 24](ApologiaSchedule\Schedule4.jpg)
+    - Complete [week 24](ApologiaSchedule/Schedule4.jpg)
     - Complete [Strawberry DNA Extraction Lab Report](https://www.genome.gov/Pages/Education/Modules/StrawberryExtractionInstructions.pdf)  
     - Lab 11.1 will be done in class
 
 ### Class 24. 21 MAR 2023, TUE 3 - 4pm CASA General Science
 
 - Coursework for 03/15/2023 \- 03/21/2023:
-    - Complete [week 25](ApologiaSchedule\Schedule5.jpg) 
+    - Complete [week 25](ApologiaSchedule/Schedule5.jpg) 
 
 ### Class 25. 28 MAR 2023, TUE 3 - 4pm CASA General Science
 
