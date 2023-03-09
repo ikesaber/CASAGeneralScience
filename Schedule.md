@@ -150,32 +150,32 @@
 ### Class 25. 28 MAR 2023, TUE 3 - 4pm CASA General Science
 
 - Coursework for 03/22/2023 \- 03/28/2023:
-    - Complete [week 26](ApologiaSchedule\Schedule5.jpg) 
+    - Complete [week 26](ApologiaSchedule/Schedule5.jpg) 
 
 ### Class 26. 18 APR 2023, TUE 3 - 4pm CASA General Science
 
 - Coursework for 03/29/2023 \- 04/18/2023:
-    - Complete [week 27](ApologiaSchedule\Schedule5.jpg)
+    - Complete [week 27](ApologiaSchedule/Schedule5.jpg)
 
 ### Class 27. 25 APR 2023, TUE 3 - 4pm CASA General Science
 
 - Coursework for 04/19/2023 \- 04/25/2023:
-    - Complete [week 28](ApologiaSchedule\Schedule5.jpg)
+    - Complete [week 28](ApologiaSchedule/Schedule5.jpg)
 
 ### Class 28. 2 MAY 2023, TUE 3 - 4pm CASA General Science
 
 - Coursework for 04/26/2023 \- 05/02/2023:
-    - Complete [week 29](ApologiaSchedule\Schedule5.jpg)
+    - Complete [week 29](ApologiaSchedule/Schedule5.jpg)
 
 ### Class 29. 9 MAY 2023, TUE 3 - 4pm CASA General Science
 
 - Coursework for 04/26/2023 \- 05/09/2023:
-    - Complete [week 30](ApologiaSchedule\Schedule5.jpg)
+    - Complete [week 30](ApologiaSchedule/Schedule5.jpg)
 
 ### Class 30. 16 MAY 2023, TUE 3 - 4pm CASA General Science
 
 - Coursework for 05/10/2023 \- 05/16/2023:
-    - Complete [week 31](ApologiaSchedule\Schedule6.jpg)
+    - Complete [week 31](ApologiaSchedule/Schedule6.jpg)
 
 ### Class 31. 23 MAY 2023, TUE 3 - 4pm CASA General Science
 
