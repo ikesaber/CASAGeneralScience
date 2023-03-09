@@ -122,9 +122,7 @@
 
 ### Class 16. 31 JAN 2023, TUE 3 - 4pm CASA General Science
 
-
 ### Class 17. 7 FEB 2023, TUE 3 - 4pm CASA General Science
-
 
 ### Class 18. 7 FEB 2023, TUE 3 - 4pm CASA General Science
 
@@ -134,28 +132,51 @@
 
 ### Class 21. 28 FEB 2023, TUE 3 - 4pm CASA General Science
 
-### Class 22. 7 MAR 2023, TUE 3 - 4pm CASA General Science
 
+### Class 22. 7 MAR 2023, TUE 3 - 4pm CASA General Science
 
 ### Class 23. 14 MAR 2023, TUE 3 - 4pm CASA General Science
 
+- Coursework for 03/07/2023 \- 03/14/2023:
+    - Complete [week 24](ApologiaSchedule\Schedule4.jpg)
+    - Complete [Strawberry DNA Extraction Lab Report](https://www.genome.gov/Pages/Education/Modules/StrawberryExtractionInstructions.pdf)  
+    - Lab 11.1 will be done in class
+
 ### Class 24. 21 MAR 2023, TUE 3 - 4pm CASA General Science
 
+- Coursework for 03/15/2023 \- 03/21/2023:
+    - Complete [week 25](ApologiaSchedule\Schedule5.jpg) 
 
 ### Class 25. 28 MAR 2023, TUE 3 - 4pm CASA General Science
 
+- Coursework for 03/22/2023 \- 03/28/2023:
+    - Complete [week 26](ApologiaSchedule\Schedule5.jpg) 
 
 ### Class 26. 18 APR 2023, TUE 3 - 4pm CASA General Science
 
+- Coursework for 03/29/2023 \- 04/18/2023:
+    - Complete [week 27](ApologiaSchedule\Schedule5.jpg)
 
 ### Class 27. 25 APR 2023, TUE 3 - 4pm CASA General Science
 
+- Coursework for 04/19/2023 \- 04/25/2023:
+    - Complete [week 28](ApologiaSchedule\Schedule5.jpg)
+
 ### Class 28. 2 MAY 2023, TUE 3 - 4pm CASA General Science
 
+- Coursework for 04/26/2023 \- 05/02/2023:
+    - Complete [week 29](ApologiaSchedule\Schedule5.jpg)
 
 ### Class 29. 9 MAY 2023, TUE 3 - 4pm CASA General Science
 
+- Coursework for 04/26/2023 \- 05/09/2023:
+    - Complete [week 30](ApologiaSchedule\Schedule5.jpg)
+
 ### Class 30. 16 MAY 2023, TUE 3 - 4pm CASA General Science
+
+- Coursework for 05/10/2023 \- 05/16/2023:
+    - Complete [week 31](ApologiaSchedule\Schedule6.jpg)
 
 ### Class 31. 23 MAY 2023, TUE 3 - 4pm CASA General Science
 
+- TBD
